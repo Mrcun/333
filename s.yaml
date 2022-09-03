@@ -9,4 +9,4 @@ services:
       region: cn-hangzhou
       name: test
       description: Description
-      definition: ./flow.yaml
+      definition: ./s.yaml
